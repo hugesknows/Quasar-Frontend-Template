@@ -138,9 +138,9 @@ module.exports = configure(function (ctx)
       },
 
       manifest: {
-        name: `Tree Care Admin`,
-        short_name: `Tree Care Admin`,
-        description: `Admin interface for the Tree Care App`,
+        name: `quasar-template`,
+        short_name: `quasar-template`,
+        description: `a template repo with generic login page`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
